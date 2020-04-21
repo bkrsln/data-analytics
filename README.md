@@ -1,3 +1,3 @@
-# notitia
+# Notitia
 
-Veri bilimi ile ilgili notlar.
+> *... from Latin notitia "a being known, knowledge."*
