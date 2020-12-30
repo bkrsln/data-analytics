@@ -9,11 +9,14 @@ Bu dokümanda veri görselleştirme konusunda faydalandığım kaynaklar, kütü
 - [Florish](https://flourish.studio/) (Kodsuz basit görselleştirmeler hazırlayabileceğiniz, hikayeler anlatabileceğiniz online araç.)
 - [VisiData](https://jsvine.github.io/intro-to-visidata/) (Terminal üzerinde çalışabileceğiniz açık kaynak bir kütüphane.)
 - [D3.js (Data-Driven Documents)](https://d3js.org)
+- [Charticulator](https://charticulator.com/index.html) (Microsoft'un desteklediği açık kaynak bir görselleştirme aracı.)
 
 ## Rehber
 - [Veri Görselleştirme Katalogu](https://datavizcatalogue.com/TR/)
 - [From Data to Viz](https://www.data-to-viz.com)
 - [BBC Cookbook](https://bbc.github.io/rcookbook/) (BBC'nin görselleştirme ve gazetecilikte kullandığı R yöntemleri.)
+- [D3.js nedir, ne değildir?](https://oguzhaninan.gitbook.io/d3-js/)
+- [Visualization Universe](http://visualizationuniverse.com) (Bir nevi katalog.)
 
 ## Kitap
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
