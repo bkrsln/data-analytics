@@ -1,6 +1,6 @@
 # Veri görselleştirme notları
 
-Bu dokümanda veri görselleştirme konusunda faydalandığım kaynaklar, kütüphaneler ve kitaplar yer alıyor. Zaman zaman güncellemeyi planlıyorum. İsmi anlaşılır olmayanlar için kısa açıklamalar yanlarında yer alıyor.
+Bu dokümanda veri görselleştirme konusunda faydalandığım kaynaklar, kütüphaneler, kitaplar ve çeşitli oluşumlar yer alıyor. Zaman zaman güncellemeyi planlıyorum. İsmi anlaşılır olmayanlar için kısa açıklamalar yanlarında yer alıyor.
 
 ## Kütüphane
 - [Google Charts](https://developers.google.com/chart/)
@@ -10,6 +10,7 @@ Bu dokümanda veri görselleştirme konusunda faydalandığım kaynaklar, kütü
 - [VisiData](https://jsvine.github.io/intro-to-visidata/) (Terminal üzerinde çalışabileceğiniz açık kaynak bir kütüphane.)
 - [D3.js (Data-Driven Documents)](https://d3js.org)
 - [Charticulator](https://charticulator.com/index.html) (Microsoft'un desteklediği açık kaynak bir görselleştirme aracı.)
+- [Infogram](https://infogram.com)
 
 ## Rehber
 - [Veri Görselleştirme Katalogu](https://datavizcatalogue.com/TR/)
@@ -17,10 +18,58 @@ Bu dokümanda veri görselleştirme konusunda faydalandığım kaynaklar, kütü
 - [BBC Cookbook](https://bbc.github.io/rcookbook/) (BBC'nin görselleştirme ve gazetecilikte kullandığı R yöntemleri.)
 - [D3.js nedir, ne değildir?](https://oguzhaninan.gitbook.io/d3-js/)
 - [Visualization Universe](http://visualizationuniverse.com) (Bir nevi katalog.)
+- [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/)
 
 ## Kitap
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 - [Hands-On Data Visualization](https://handsondataviz.org)
 
-## Blog
+## Blog, Ağ, Kominite
 - [Flowingdata](https://flowingdata.com)
+- [Visual Capitalist](https://www.visualcapitalist.com)
+- [Our World in Data](https://ourworldindata.org)
+- [Information is Beatiful](https://informationisbeautiful.net)
+- [Data is Beatiful](https://www.reddit.com/r/dataisbeautiful/)
+- [Questions in Dataviz](https://questionsindataviz.com)
+- [Çilek Ağacı](http://www.cilekagaci.com) (Keşke aktif olsa. Bilgi tasarımı araçlarını sosyoloji, politika, popüler kültür gibi çeşitli alanlardan vakalara uygulayan bir grup mühendis, araştırmacı ve tasarımcı.)
+- [Nightingale](https://medium.com/nightingale)
+- [Viz for Social Good](https://twitter.com/VizFSG)
+- [Data Visualization Society](https://www.datavisualizationsociety.com)
+- [Irish Data Viz](https://twitter.com/IrishDataViz)
+- [The Pudding](https://pudding.cool)
+- [Five Thirty Eight](https://twitter.com/FiveThirtyEight)
+- [Tableau Public](https://public.tableau.com/en-us/gallery)
+- [Turkey Data Monitor](https://twitter.com/turkeymonitor)
+- [DelayedGratification](https://www.slow-journalism.com) (Harika bir dergi.)
+
+## Kişi
+- [Tamas Varga](https://twitter.com/imperativusz)
+- [Jason Forest](https://twitter.com/Jasonforrestftw)
+- [Will Chase](https://twitter.com/W_R_Chase)
+- [Deniz Cem Önduygu](https://twitter.com/denizcemonduygu)
+- [Neil Kaye](https://twitter.com/neilrkaye)
+- [Yan Holtz](https://twitter.com/R_Graph_Gallery)
+- [Neil Richards](https://twitter.com/theneilrichards)
+- [Amber Thomas](https://twitter.com/ProQuesAsker)
+- [RJ Andrews](https://twitter.com/infowetrust)
+- [Brian Moore](https://twitter.com/BMooreWasTaken)
+- [Evelina Judeikytė](https://twitter.com/evelinajud)
+- [Tiziana Alocci](https://twitter.com/Altiziana)
+- [Jon Schwabish](https://twitter.com/jschwabish)
+- [Nadieh Bremer](https://twitter.com/NadiehBremer)
+- [Julia Wolfe](https://twitter.com/juruwolfe)
+- [Piero Zagami](https://twitter.com/pierozagami)
+- [Andy Kirk](https://twitter.com/visualisingdata)
+- [Russell Goldenberg](https://twitter.com/codenberg)
+- [Hadley Wickham](https://twitter.com/hadleywickham)
+- [Lisa Charlotte Rost](https://twitter.com/lisacrost)
+- [John Burn-Murdoch](https://twitter.com/jburnmurdoch)
+- [Giorgia Lupi](https://twitter.com/giorgialupi)
+- [Matthew Kay](https://twitter.com/mjskay)
+- [Maarten Lambrechts](https://twitter.com/maartenzam)
+- [Robert Kosara](https://twitter.com/eagereyes)
+- [Nathan Yau](https://twitter.com/flowingdata)
+- [Benjamin Wiederkehr](https://twitter.com/wiederkehr)
+- [Mohammed Haddad](https://twitter.com/haddadme)
+- [Kerem Kargin](https://twitter.com/keremkargin_)
+- [Eren Janberk Genç](https://twitter.com/ejgenc)
