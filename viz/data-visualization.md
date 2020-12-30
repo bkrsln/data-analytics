@@ -31,7 +31,7 @@ Bu dokümanda veri görselleştirme konusunda faydalandığım kaynaklar, kütü
 - [Information is Beatiful](https://informationisbeautiful.net)
 - [Data is Beatiful](https://www.reddit.com/r/dataisbeautiful/)
 - [Questions in Dataviz](https://questionsindataviz.com)
-- [Çilek Ağacı](http://www.cilekagaci.com) (Keşke aktif olsa. Bilgi tasarımı araçlarını sosyoloji, politika, popüler kültür gibi çeşitli alanlardan vakalara uygulayan bir grup mühendis, araştırmacı ve tasarımcı.)
+- [Çilek Ağacı](http://www.cilekagaci.com) (Keşke aktif olsa.)
 - [Nightingale](https://medium.com/nightingale)
 - [Viz for Social Good](https://twitter.com/VizFSG)
 - [Data Visualization Society](https://www.datavisualizationsociety.com)
