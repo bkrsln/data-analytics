@@ -30,7 +30,7 @@ To remove duplicates from a result set, you use the DISTINCT operator in the SEL
 
 ```
 SELECT DISTINCT
-    column1, column2, ..`
+    column1, column2, ..
 FROM
     table1;
 ```
