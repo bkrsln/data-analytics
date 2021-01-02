@@ -1,6 +1,6 @@
 # SQL Cheat Sheet
 
-Resource: [www.sqltutorial.org](https://www.sqltutorial.org/)
+Kaynak: [www.sqltutorial.org](https://www.sqltutorial.org/)
 
 - **SELECT**
 
