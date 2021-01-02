@@ -26,8 +26,6 @@ ORDER BY column1 ASC ,
 
 - **DISTINCT**
 
-To remove duplicates from a result set, you use the DISTINCT operator in the SELECT clause.
-
 Sorguda tekrar eden değerleri benzersiz hale getirir.
 
 ```
