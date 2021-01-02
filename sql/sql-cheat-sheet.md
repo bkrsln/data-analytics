@@ -4,7 +4,7 @@ Resource: [www.sqltutorial.org](https://www.sqltutorial.org/)
 
 - **SELECT**
 
-To query data from a table, you use the SQL SELECT statement. The SELECT statement contains the syntax for selecting columns, selecting rows, grouping data, joining tables, and performing simple calculations.
+Tablodan data sorgulamak için kullanılır. Sütun veya satırları seçebilir, sorgulanan dataları gruplayabilir, tabloları birleştirebilir ve basit hesaplamalar yapabilir.
 
 ```
 SELECT select_list
@@ -13,7 +13,7 @@ FROM table_name;
 
 - **ORDER BY**
 
-To specify exactly the order of rows in the result set, you add use an ORDER BY clause in the SELECT statement.
+Sorgulanan sonuca göre artan veya azalan olarak satırları sıralar.
 
 ```
 SELECT 
@@ -28,6 +28,8 @@ ORDER BY column1 ASC ,
 
 To remove duplicates from a result set, you use the DISTINCT operator in the SELECT clause.
 
+Sorguda tekrar eden değerleri benzersiz hale getirir.
+
 ```
 SELECT DISTINCT
     column1, column2, ...
@@ -37,7 +39,7 @@ FROM
 
 - **WHERE**
 
-To select certain rows from a table, you use a WHERE clause in the SELECT statement.
+Belirli satırları sorgulamak için kullanılır.
 
 ```
 SELECT 
@@ -46,4 +48,17 @@ FROM
     table
 WHERE
     condition;
+```
+
+- **LIMIT**
+
+Belirli sayıda satır almak için LIMIT, kaçıncı satırdan itibaren alınmak istenirse OFFSET kullanılır.
+
+```
+SELECT 
+    column_list
+FROM
+    table1
+ORDER BY column_list
+LIMIT row_count OFFSET offset;
 ```
