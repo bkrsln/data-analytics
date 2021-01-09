@@ -10,7 +10,7 @@ Tablodan data sorgulamak için kullanılır. Sütun veya satırları seçebilir,
 SELECT select_list
 FROM table_name;
 ```
-
+---
 - **ORDER BY**
 
 Sorgulanan sonuca göre artan veya azalan olarak satırları sıralar.
@@ -23,7 +23,7 @@ FROM
 ORDER BY column1 ASC , 
          column2 DESC;
 ```
-
+---
 - **DISTINCT**
 
 Sorguda tekrar eden değerleri benzersiz hale getirir.
