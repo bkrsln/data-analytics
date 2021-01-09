@@ -60,3 +60,16 @@ FROM
 ORDER BY column_list
 LIMIT row_count OFFSET offset;
 ```
+
+- **INNER JOIN**
+
+İki veya daha fazla tabloyu kesişim kümesine göre bağlar. Örneğin A(1,2,3,4) kümesiyle B(3,4,5,6) kümesi **INNER JOIN** ile bağlandığında (3,4) kümesi oluşur. Kümeler arasındaki değerler **ON** kelimesiyle ilişkilendirilir.
+
+![INNER JOIN](https://cdn.sqltutorial.org/wp-content/uploads/2016/03/SQL-INNER-JOIN.png)
+
+```
+SELECT
+    A.n
+FROM A
+INNER JOIN B ON B.n = A.n;
+```
