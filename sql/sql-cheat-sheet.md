@@ -2,7 +2,7 @@
 
 Kaynak: [www.sqltutorial.org](https://www.sqltutorial.org/)
 
-- **SELECT**
+### SELECT
 
 Tablodan data sorgulamak için kullanılır. Sütun veya satırları seçebilir, sorgulanan dataları gruplayabilir, tabloları birleştirebilir ve basit hesaplamalar yapabilir.
 
@@ -11,7 +11,7 @@ SELECT select_list
 FROM table_name;
 ```
 ---
-- **ORDER BY**
+### ORDER BY
 
 Sorgulanan sonuca göre artan veya azalan olarak satırları sıralar.
 
@@ -24,7 +24,7 @@ ORDER BY column1 ASC ,
          column2 DESC;
 ```
 ---
-- **DISTINCT**
+### DISTINCT
 
 Sorguda tekrar eden değerleri benzersiz hale getirir.
 
@@ -35,7 +35,7 @@ FROM
     table1;
 ```
 ---
-- **WHERE**
+### WHERE
 
 Belirli satırları sorgulamak için kullanılır.
 
@@ -48,7 +48,7 @@ WHERE
     condition;
 ```
 ---
-- **LIMIT**
+### LIMIT
 
 Belirli sayıda satır almak için LIMIT, kaçıncı satırdan itibaren alınmak istenirse OFFSET kullanılır.
 
@@ -61,7 +61,7 @@ ORDER BY column_list
 LIMIT row_count OFFSET offset;
 ```
 ---
-- **INNER JOIN**
+### INNER JOIN
 
 İki veya daha fazla tabloyu kesişim kümesine göre bağlar. Örneğin A(1,2,3,4) kümesiyle B(3,4,5,6) kümesi **INNER JOIN** ile bağlandığında (3,4) kümesi oluşur. Kümeler arasındaki değerler **ON** kelimesiyle ilişkilendirilir.
 
