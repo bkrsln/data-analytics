@@ -74,3 +74,17 @@ FROM A
 INNER JOIN B ON B.n = A.n;
 ```
 ---
+### LEFT JOIN
+
+Diğer tabloda yer alıp da birleştirilenle eşleşmeyen değerleri almaz. A'da olup da B'de olmayandır.
+
+![LEFT JOIN](https://cdn.sqltutorial.org/wp-content/uploads/2016/03/SQL-LEFT-JOIN.png)
+
+```
+SELECT
+    A.n
+FROM
+    A
+LEFT JOIN B ON B.n = A.n;
+```
+---
