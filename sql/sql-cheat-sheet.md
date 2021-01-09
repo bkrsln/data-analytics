@@ -34,7 +34,7 @@ SELECT DISTINCT
 FROM
     table1;
 ```
-
+---
 - **WHERE**
 
 Belirli satırları sorgulamak için kullanılır.
@@ -47,7 +47,7 @@ FROM
 WHERE
     condition;
 ```
-
+---
 - **LIMIT**
 
 Belirli sayıda satır almak için LIMIT, kaçıncı satırdan itibaren alınmak istenirse OFFSET kullanılır.
@@ -60,7 +60,7 @@ FROM
 ORDER BY column_list
 LIMIT row_count OFFSET offset;
 ```
-
+---
 - **INNER JOIN**
 
 İki veya daha fazla tabloyu kesişim kümesine göre bağlar. Örneğin A(1,2,3,4) kümesiyle B(3,4,5,6) kümesi **INNER JOIN** ile bağlandığında (3,4) kümesi oluşur. Kümeler arasındaki değerler **ON** kelimesiyle ilişkilendirilir.
@@ -73,3 +73,4 @@ SELECT
 FROM A
 INNER JOIN B ON B.n = A.n;
 ```
+---
