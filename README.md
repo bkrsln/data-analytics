@@ -1,5 +1,7 @@
-# Notitia
+# datascience
 
-> *... from Latin notitia "a being known, knowledge."*
+Tool kits and bookmarks about data science.
 
-Bu repo veri bilimi yolculuğumda tuttuğum notlar ve faydalandığım kaynaklardan oluşuyor.
+## Bookmarks
+
+- [Python Cheatsheet](https://www.pythoncheatsheet.org)
