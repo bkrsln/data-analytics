@@ -1,6 +1,6 @@
-# datascience
+# Data Analytics
 
-Tool kits and bookmarks about data science.
+Tool kits and bookmarks about data analytics.
 
 ## Bookmarks
 
